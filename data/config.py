@@ -1,0 +1,4 @@
+BOT_TOKEN = '6785357591:AAHB3tNMs7RXoI8i_MumGD449SsD3UzokMQ'
+# t.me/aio_shop_2023_bot
+# например, ADMINS = [000000000, 1234567890]
+ADMINS = []
